@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auceiceib.brianssparetime.com/sitemap.xml
